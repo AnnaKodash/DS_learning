@@ -4,10 +4,9 @@
 ## Оглавление
 * [Описание](https://github.com/AnnaKodash/DS_learning/blob/main/project_0/readme.md#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5)
 * [Какой кейс решаем](https://github.com/AnnaKodash/DS_learning/blob/main/project_0/readme.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
-* [Краткая информация о данных](https://vscode.dev/github/AnnaKodash/DS_learning/blob/7702fe07c182154518d29e5134b2e527b3cdb9bc/project_0/readme.md#L7)
+* [Краткая информация о данных](https://github.com/AnnaKodash/DS_learning/blob/main/project_0/readme.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
 * [Этапы работы]()
-* [Результаты]()
-* [Выводы]()
+* [Результаты и выводы]()
 
 ### Описание
 
@@ -25,9 +24,17 @@
 
 ### Краткая информация о данных
 
+* game.py - код программы
+* game.ipynb - Jupiter Notebook документ
 
+### Этапы работы
 
-###
-###
-###
-###
+* Импорт библиотеки numpy.
+* Создание функции для выбора случайного числа в диапазоне от 1 до 100 и угадывания его компьтером со счетчиком попыток.
+* Создание функции подсчета среднего количества попыток при условии 1000 подходов.
+* Тестирование кода.
+* Оформление программы.
+
+### Результаты и выводы
+
+Программа работает корректно.
