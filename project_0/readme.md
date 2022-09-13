@@ -2,7 +2,7 @@
 ## Игра: Угадай число
 
 ## Оглавление
-* [Описание](https://vscode.dev/github/AnnaKodash/DS_learning/blob/7702fe07c182154518d29e5134b2e527b3cdb9bc/project_0/readme.md#L12)
+* [Описание](https://vscode.dev/github/AnnaKodash/DS_learning/project_0/readme.md#Описание)
 * [Какой кейс решаем](https://vscode.dev/github/AnnaKodash/DS_learning/blob/7702fe07c182154518d29e5134b2e527b3cdb9bc/project_0/readme.md#L16)
 * [Краткая информация о данных](https://vscode.dev/github/AnnaKodash/DS_learning/blob/7702fe07c182154518d29e5134b2e527b3cdb9bc/project_0/readme.md#L7)
 * [Этапы работы]()
