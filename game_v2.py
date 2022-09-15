@@ -1,3 +1,7 @@
+"""Игра угадай число
+Компьютер сам загадывает и сам угадывает число
+"""
+
 import numpy as np
 
 def random_predict(number:int=1) -> int:
@@ -31,4 +35,9 @@ def score_game(random_predict) -> int:
     score = int(np.mean(count_ls)) # находим среднее количество попыток
     return(score)
 
-print(score_game(random_predict))
+
+
+
+if __name__ == "__main__":
+    # RUN
+    score_game(random_predict)
