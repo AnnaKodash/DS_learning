@@ -1,2 +1,8 @@
 project_1/data/dst-3.0_16_1_hh_database.csv
 Projects/project_1/data/dst-3.0_16_1_hh_database.csv
+
+Projects/project_3/data/hotels.csv
+Projects/project_3/data/hotels_train.csv
+Projects/project_3/data/hotels_test.csv
+EDA/Kaggle/test_data.csv
+EDA/Kaggle/train_data.csv
