@@ -1,18 +1,19 @@
 # Проект 3. EDA + Feature Engineering
 
 ## Оглавление  
-[1. Описание проекта]()  
-[2. Какой кейс решаем?]()  
-[3. Краткая информация о данных]()  
-[4. Этапы работы над проектом]()  
-[5. Результат]() 
+[1. Описание проекта](https://github.com/AnnaKodash/DS_learning/tree/main/Projects/project_3#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)  
+[2. Какой кейс решаем?](https://github.com/AnnaKodash/DS_learning/tree/main/Projects/project_3#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)  
+[3. Краткая информация о данных](https://github.com/AnnaKodash/DS_learning/tree/main/Projects/project_3#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)  
+[4. Этапы работы над проектом](https://github.com/AnnaKodash/DS_learning/tree/main/Projects/project_3#%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%BC)  
+[5. Результаты](https://github.com/AnnaKodash/DS_learning/tree/main/Projects/project_3#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B) 
+[6. Выводы](https://github.com/AnnaKodash/DS_learning/tree/main/Projects/project_3#%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)
 
 ### Описание проекта    
 
 Создание модели машинного обучения на основе представленного датасета, а также участие в соревновании на платформе Kaggle.
 Основная работа по проекту заключается в тщательной очистке, проектировании признаков и разведывательном анализе с целью повышения точности модели.
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/AnnaKodash/DS_learning/tree/main/Projects/project_3#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Какой кейс решаем?  
@@ -35,7 +36,7 @@
 * Создание модели на алгоритмах машинного обучения
 * Участие в соревновании на Kaggle
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/AnnaKodash/DS_learning/tree/main/Projects/project_3#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Краткая информация о данных
@@ -46,7 +47,7 @@
 * requirements.txt - версии библиотек окружения
 
   
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/AnnaKodash/DS_learning/tree/main/Projects/project_3#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Этапы работы над проектом  
@@ -63,21 +64,21 @@
 * Участие в соревновании
 
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/AnnaKodash/DS_learning/tree/main/Projects/project_3#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
-### Результаты:  
+### Результаты  
 
 В результате выполнения поставленных задач была достигнута главная цель проекта - благодаря подготовленным данным удалось улучшить качество предсказания модели.
 MAPE: 13.430154873026687
 Также удалось принять участие в соревновании и занять определенное место в лидерборде.
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/AnnaKodash/DS_learning/tree/main/Projects/project_3#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
-### Выводы:  
+### Выводы 
 
 Этап подготовки данных для обучения модели очень важен, и полученный результат не конечный. 
 Эта работа помогла определить направления развития и отработки полученных знаний и навыков в дальнейшем.
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/AnnaKodash/DS_learning/tree/main/Projects/project_3#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
