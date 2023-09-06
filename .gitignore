@@ -10,3 +10,5 @@ Projects/project_5/data/train.csv
 Projects/project_5/data/osrm_data_train.csv
 Projects/project_5/data/Project5_osrm_data_test.csv
 Projects/project_5/data/Project5_test_data.csv
+Math/math14/data/dst-3.0_mathml_14_5_rating.csv
+Math/math14/data/movie.csv
