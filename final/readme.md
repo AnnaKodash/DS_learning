@@ -34,7 +34,7 @@
 
 ### Краткая информация о данных
 
-- [папка 'data']()
+- [папка 'data'](https://drive.google.com/drive/folders/1xxbQsmOdQcYLn4oiCymkzR_YYAIHNQOI?usp=sharing)
   * ngo_dump_01.json - исходный файл с данными
   * ngo_dump_02.json - исходный файл с данными
   * ngo_dump_03.json - исходный файл с данными
